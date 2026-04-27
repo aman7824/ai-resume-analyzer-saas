@@ -42,7 +42,7 @@ resume-saas/
 ├── requirements.txt
 └── users.db
 
-<img src="images/Ai Resume.png" width="600"/>
+<img src="/Ai Resume.png" width="600"/>
 
 ## ▶️ Run Locally
 
